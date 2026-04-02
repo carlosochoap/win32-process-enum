@@ -1,0 +1,26 @@
+# Build outputs
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.log
+*.recipe
+*.tlog
+*.idb
+
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.vcxproj.user
+*.suo
+*.sdf
+*.opensdf
+*.cachefile
+*.opendb
+*.db
+
+# Temp
+*.tmp
+Thumbs.db
